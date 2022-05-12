@@ -1,0 +1,5 @@
+	Favorite movie: Legend,
+        Favorite series: Breakin Bad,
+        Favorite food: Pizza,
+        Favorite time of the year: Summer,
+        Side you would like tovisit: Japani
